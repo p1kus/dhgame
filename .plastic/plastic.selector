@@ -1,0 +1,4 @@
+repository "DistantHorizon/dhgame@20067375456739@cloud"
+  path "/"
+    br "/main"
+    co "/main"
